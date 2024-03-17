@@ -1,2 +1,2 @@
 # PNG-
-A Python-based PNG game is a visually engaging interactive experience built using Python programming language, leveraging PNG image files for graphics rendering. It combines the versatility of Python with the richness of PNG images to create dynamic and immersive gameplay.
+"Pig Game: A Python-based dice game where players take turns rolling dice to accumulate points, with the risk of losing all progress with a single 'pig out' roll. Simple and addictive fun for all ages!"
